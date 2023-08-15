@@ -1,4 +1,4 @@
-package com.example.creditcard;
+package com.hzbank.creditcard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
